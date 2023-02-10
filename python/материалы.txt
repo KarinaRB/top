@@ -1,0 +1,2 @@
+Переменные - https://colab.research.google.com/drive/1_rIsaZgpk2qBQnJjqaf0zO_Nz9bPe7SF?usp=sharing
+Условия if - else - https://colab.research.google.com/drive/1pph4ICgX2GBuADgKe8uYRpHH4hNut86s?usp=sharing
